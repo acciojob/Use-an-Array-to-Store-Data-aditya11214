@@ -5,3 +5,4 @@ let yourArray = [
 	{"jkl",4,false},
 	{"mno",5,true}
 ]
+console.log(yourArray)
